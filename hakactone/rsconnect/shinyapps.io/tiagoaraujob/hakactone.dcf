@@ -1,0 +1,12 @@
+name: hakactone
+title: hakactone
+username:
+account: tiagoaraujob
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 230239
+bundleId: 1050517
+url: https://tiagoaraujob.shinyapps.io/hakactone/
+when: 1509277333.12819
+asMultiple: FALSE
+asStatic: FALSE
